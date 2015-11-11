@@ -24,16 +24,7 @@ class ViewController: UIViewController {
         
     }
     
-    // doesnt matter what i've done
-    // I'm adding another comment to see if the commit happens immediately. 
-    // another comment!!!!!!!!!!!!!!!!!!!!!!!!!!
-    
-    
-    // another fucking comment
-    
-    
-    
-    
+ // I'm not sure why this isn't commiting very quickly. hmmmm. 
     
     
     
